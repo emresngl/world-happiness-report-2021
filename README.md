@@ -1,0 +1,2 @@
+# world-happiness-report-2021
+What makes a country happy? Or.. An easier question. What makes you, as an individual, happier? Your future expectations or your income or your honest government? According to happiness report.; "The variables used reflect what has been broadly found in the research literature to be important in explaining national-level differences in life evaluations.". We will be using those datas to understand better what makes a country more happy. Without further ado, let's get started
